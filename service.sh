@@ -1,0 +1,1 @@
+settings put secure clock_seconds 1
